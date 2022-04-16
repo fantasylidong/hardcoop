@@ -13,7 +13,7 @@
 	"3"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}可以输入!slots来调整服务器位置，新的位置只能用来观战，最大生还者上限4人"
+		"text"		"{LIGHTGREEN}可以输入!slots来调整服务器位置，如果你想多人游玩"
 	}
 	"4"
 	{
